@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\bin\Debug\soru1derecedonusturme.exe.config
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\bin\Debug\soru1derecedonusturme.exe
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\bin\Debug\soru1derecedonusturme.pdb
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\obj\Debug\soru1derecedonusturme.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\obj\Debug\soru1derecedonusturme.Form1.resources
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\obj\Debug\soru1derecedonusturme.Properties.Resources.resources
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\obj\Debug\soru1derecedonusturme.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\obj\Debug\soru1derecedonusturme.exe
+C:\Users\hp\Desktop\soru1derecedonusturme\soru1derecedonusturme\obj\Debug\soru1derecedonusturme.pdb
